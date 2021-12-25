@@ -1,0 +1,15 @@
+/Users/ahmedkhan/Desktop/SingletonPattern/bin/Debug/net5.0/SingletonPattern.deps.json
+/Users/ahmedkhan/Desktop/SingletonPattern/bin/Debug/net5.0/SingletonPattern.runtimeconfig.json
+/Users/ahmedkhan/Desktop/SingletonPattern/bin/Debug/net5.0/SingletonPattern.runtimeconfig.dev.json
+/Users/ahmedkhan/Desktop/SingletonPattern/bin/Debug/net5.0/SingletonPattern.dll
+/Users/ahmedkhan/Desktop/SingletonPattern/bin/Debug/net5.0/ref/SingletonPattern.dll
+/Users/ahmedkhan/Desktop/SingletonPattern/bin/Debug/net5.0/SingletonPattern.pdb
+/Users/ahmedkhan/Desktop/SingletonPattern/obj/Debug/net5.0/SingletonPattern.csproj.AssemblyReference.cache
+/Users/ahmedkhan/Desktop/SingletonPattern/obj/Debug/net5.0/SingletonPattern.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ahmedkhan/Desktop/SingletonPattern/obj/Debug/net5.0/SingletonPattern.AssemblyInfoInputs.cache
+/Users/ahmedkhan/Desktop/SingletonPattern/obj/Debug/net5.0/SingletonPattern.AssemblyInfo.cs
+/Users/ahmedkhan/Desktop/SingletonPattern/obj/Debug/net5.0/SingletonPattern.csproj.CoreCompileInputs.cache
+/Users/ahmedkhan/Desktop/SingletonPattern/obj/Debug/net5.0/SingletonPattern.dll
+/Users/ahmedkhan/Desktop/SingletonPattern/obj/Debug/net5.0/ref/SingletonPattern.dll
+/Users/ahmedkhan/Desktop/SingletonPattern/obj/Debug/net5.0/SingletonPattern.pdb
+/Users/ahmedkhan/Desktop/SingletonPattern/obj/Debug/net5.0/SingletonPattern.genruntimeconfig.cache
